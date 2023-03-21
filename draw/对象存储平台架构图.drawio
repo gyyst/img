@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-19T07:48:51.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="FoiGNmf5q669MgjP3oQR" version="21.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-21T06:43:21.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="xCNJD28gbznGHWlZuGd_" version="21.0.8" type="github">
   <diagram name="第 1 页" id="LWJoSGkPfl6FPsaIZb4w">
     <mxGraphModel dx="1050" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="TnlZz4HWznjLwlr_zGEs-19" value="&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;用户鉴权&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;strokeColor=#d6b656;fontSize=20;fillColor=#fff2cc;align=center;" parent="1" vertex="1">
           <mxGeometry x="340" y="220" width="430" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="TnlZz4HWznjLwlr_zGEs-20" value="AccessKey" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;strokeColor=#d6b656;fontSize=20;fillColor=#fff2cc;" parent="1" vertex="1">
+        <mxCell id="TnlZz4HWznjLwlr_zGEs-20" value="AccessKey&lt;br&gt;SecretKey" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;strokeColor=#d6b656;fontSize=20;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="349" y="270" width="131" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TnlZz4HWznjLwlr_zGEs-21" value="Sign" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;strokeColor=#d6b656;fontSize=20;fillColor=#fff2cc;" parent="1" vertex="1">
