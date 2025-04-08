@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="26.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="第 1 页" id="LWJoSGkPfl6FPsaIZb4w">
-    <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1044" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,7 +97,7 @@
         <mxCell id="TnlZz4HWznjLwlr_zGEs-63" value="定时触发" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;strokeColor=#d6b656;fontSize=20;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="620" y="780" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TnlZz4HWznjLwlr_zGEs-66" value="周期触发" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;strokeColor=#d6b656;fontSize=20;fillColor=#fff2cc;" parent="1" vertex="1">
+        <mxCell id="TnlZz4HWznjLwlr_zGEs-66" value="AI调度" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;strokeColor=#d6b656;fontSize=20;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="620" y="830" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TnlZz4HWznjLwlr_zGEs-70" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontSize=20;fillColor=#FFFFFF;strokeColor=#007FFF;fontColor=#FFFFFF;rounded=1;shadow=1;sketch=0;rotation=-180;" parent="1" vertex="1">
